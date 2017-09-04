@@ -1,25 +1,2 @@
-@charset utf-8;
-*{margin:0; padding:0}
-
-#wrapper{
-    width:970px;
-    margin:0 auto;
-}
-#header, #content{
-    border-radius:15px; 
-    background:#A9D5FF; 
-    border:#0000FF 4px groove;
-    font-family:arial;
-    margin-top:30px;
-    padding:10px;
-}
-#header{
-    text-align:center;
-    font-size:2em;
-}
-#files{
-    margin-top:30px;
-}
-a{
-    margin-left:30px
-}
+body{background: greenyellow;}
+p{font-size: 40px;}
